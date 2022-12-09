@@ -12,7 +12,7 @@ __LinkedIn: [@Pierre Garnier](https://www.linkedin.com/in/pierre-garnier-5065082
 Projet 2 - Transformez une maquette en site web avec HTML & CSS
 
 
-Intégrer des maquettes figma avec de l'HTMl et du Css.
+Réaliser un site statique responsive via des maquettes figma.
 Compétences évaluées
 * Implémenter une interface responsive
 * Intégrer du contenu conformément à une maquette
